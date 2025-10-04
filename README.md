@@ -142,6 +142,6 @@ Publish the website in the given URL.
 ![alt text](<Screenshot (41).png>)
 ![alt text](<Screenshot (42).png>)
 ![alt text](<Screenshot (43).png>)
-![alt text](<Screenshot (43)-1.png>)
+![alt text](<Screenshot (44).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
